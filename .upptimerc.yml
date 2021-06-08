@@ -7,7 +7,7 @@ sites:
     url: https://sidrana.dev
     maxResponseTime: 1000
   - name: Multimedia BRN
-    url: https://mbrn.in
+    url: https://mbrn.in/ping.html
     icon: https://mbrn.in/images/icons/favicon-32x32.png
     maxResponseTime: 1500
 
