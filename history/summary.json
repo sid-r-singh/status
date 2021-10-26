@@ -24,19 +24,19 @@
     "url": "https://sid.one",
     "icon": "https://favicons.githubusercontent.com/sid.one",
     "slug": "sid-one",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 1668,
-    "timeWeek": 556,
-    "timeMonth": 303,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 228,
+    "timeDay": 1155,
+    "timeWeek": 509,
+    "timeMonth": 298,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2021-10-26": 0
+      "2021-10-26": 17
     }
   },
   {
