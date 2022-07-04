@@ -14,7 +14,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 120,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2021-08-08": 117
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
     "time": 262,
-    "timeDay": 188,
-    "timeWeek": 811,
-    "timeMonth": 447,
+    "timeDay": 247,
+    "timeWeek": 701,
+    "timeMonth": 449,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2022-06-28": 76,
@@ -52,15 +52,15 @@
     "slug": "multimedia-brn",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "86.85%",
+    "uptimeDay": "95.89%",
     "uptimeWeek": "94.44%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.80%",
     "time": 1333,
-    "timeDay": 539,
-    "timeWeek": 733,
-    "timeMonth": 832,
-    "timeYear": 1273,
+    "timeDay": 998,
+    "timeWeek": 735,
+    "timeMonth": 836,
+    "timeYear": 1275,
     "dailyMinutesDown": {
       "2022-07-03": 137,
       "2022-07-02": 53,
