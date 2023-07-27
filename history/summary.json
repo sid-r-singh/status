@@ -6,17 +6,16 @@
     "slug": "multimedia-brn",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
-    "time": 933,
-    "timeDay": 573,
-    "timeWeek": 360,
-    "timeMonth": 259,
-    "timeYear": 907,
+    "time": 931,
+    "timeDay": 215,
+    "timeWeek": 363,
+    "timeMonth": 261,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2023-07-26": 10,
       "2023-06-18": 18,
       "2023-06-04": 500,
       "2023-06-03": 1440,
@@ -30,8 +29,7 @@
       "2022-12-09": 26,
       "2022-11-18": 27,
       "2022-11-02": 40,
-      "2022-09-28": 21,
-      "2022-07-27": 41
+      "2022-09-28": 21
     }
   }
 ]
