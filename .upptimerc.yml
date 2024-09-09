@@ -12,7 +12,6 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.sid.one
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Sidharth's status page
   introTitle: "**Sid status page** is the open-source uptime monitor and status page, powered entirely by GitHub."
